@@ -1,0 +1,2 @@
+?if you want to deploy to rinkby for example you can do>> brownie run scripts/deploy.py --network rinkeby
+> open brownie console by > brownie console
